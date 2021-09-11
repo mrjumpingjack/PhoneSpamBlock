@@ -9,10 +9,6 @@ Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhoneSpamBlockSetup", "Phon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sipdotnet", "sipdotnet-master\sipdotnet.csproj", "{BCB250F8-F74C-4768-8833-0F13FC8659B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonebotService", "PhonebotService\PhonebotService\PhonebotService.csproj", "{56267761-0001-4B22-9B14-05ED57D054DD}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhoneSpamBlockServiceSetup", "PhoneSpamBlockServiceSetup\PhoneSpamBlockServiceSetup.vdproj", "{1BD9E53E-055C-41F5-B990-4E6DD3B71591}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallManager", "CallManager\CallManager.csproj", "{DF471487-E868-4121-804E-DAEA0D7F2FDF}"
 EndProject
 Global
@@ -31,12 +27,6 @@ Global
 		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{56267761-0001-4B22-9B14-05ED57D054DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56267761-0001-4B22-9B14-05ED57D054DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56267761-0001-4B22-9B14-05ED57D054DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56267761-0001-4B22-9B14-05ED57D054DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1BD9E53E-055C-41F5-B990-4E6DD3B71591}.Debug|Any CPU.ActiveCfg = Debug
-		{1BD9E53E-055C-41F5-B990-4E6DD3B71591}.Release|Any CPU.ActiveCfg = Release
 		{DF471487-E868-4121-804E-DAEA0D7F2FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DF471487-E868-4121-804E-DAEA0D7F2FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF471487-E868-4121-804E-DAEA0D7F2FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
